@@ -1,5 +1,6 @@
 
 package sa.edu.kau.fcit.cpit252.lab4BuilderFactory;
+
 public class Archer implements Characters {
     private String name;
     private Avatar avatar;

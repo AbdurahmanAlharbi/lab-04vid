@@ -1,7 +1,6 @@
 
 package sa.edu.kau.fcit.cpit252.lab4BuilderFactory;
 
-
 public class Knight implements Characters {
     private String name;
     private Avatar avatar;

@@ -1,5 +1,4 @@
 
-
 package sa.edu.kau.fcit.cpit252.lab4BuilderFactory;
 
 public final class Avatar {
